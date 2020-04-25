@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: junit5Basic.mathUtilTest
+-------------------------------------------------------------------------------
+Tests run: 48, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.455 s <<< FAILURE! - in junit5Basic.mathUtilTest
+postDigitalbank_customer_benef_GETid_269_THIS_MUST_FAIL  Time elapsed: 0.728 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+	at junit5Basic.mathUtilTest$beneficiary.postDigitalbank_customer_benef_GETid_269_THIS_MUST_FAIL(mathUtilTest.java:191)
+

@@ -1,0 +1,14 @@
+{
+  "ID": 0,
+  "CustomerID": 0,
+  "Name": "string",
+  "RoleDescription": "string",
+  "RoleTypeID": 2,
+  "StatusID": 0,
+  "RoleType": {
+    "RoleTypeID": 2,
+    "Name": "string"
+  },
+  "TransTime": "2019-11-05T10:59:16.613Z",
+  "UserID": 0
+}

@@ -1,0 +1,17 @@
+{
+ "ID": 0,
+  "ServiceRequestTypeID": 4,
+  "Name": "string",
+  "FromAccountID": 1664,
+  "MoreDetail": "string1",
+  "CurrencyID": 186,
+  "CustomerID": 0,
+  "AuditYearID": 0,
+  "DurationID": 0,
+  "Amount": 0,
+  "BeneficiaryName": "string1",
+  "ChequeNumber": "string",
+  "DraftNumber": "string",
+  "BalanceDate": "2019-11-05T06:09:51.907Z",
+  "ValueDate": "2019-11-05T06:09:51.907Z"
+}

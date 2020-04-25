@@ -1,0 +1,23 @@
+{
+	"ID": 0,
+  "CustomerID": 0,
+  "CurrencyID": 0,
+  "BeneficiaryTypeID": 0,
+  "Name": "string",
+  "IBAN": "string",
+  "BankName": "string",
+  "MobileNo": "string",
+  "BankBICode": "string",
+  "BranchNo": "string",
+  "CountryID": 0,
+  "PayeeName": "string",
+  "AddressLine1": "string",
+  "AddressLine2": "string",
+  "City": "string",
+  "StatusID": 0,
+  "Remarks": "string",
+  "OtherReferenceCode": "string",
+  "TransTime": "2019-10-21T11:33:16.434Z",
+  "UserID": 0,
+  "CustomerName": "string"
+}

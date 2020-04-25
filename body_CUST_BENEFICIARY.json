@@ -1,0 +1,10 @@
+{
+ 
+  "Criteria": [
+    {
+      "PropertyName": "PayeeName",
+      "Value": "Ahmed Talal",
+      "CriteriaOperator": 1
+    }
+  ]
+}
